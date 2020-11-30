@@ -6,4 +6,4 @@ From tomcat:latest
 MAINTAINER "PR Reddy - iwayQ" 
 
 # copy war file on to container 
-COPY ./iwayq.war /usr/local/tomcat/webapps
+COPY ./iwayQApp-1.0-RELEASE.war.war /usr/local/tomcat/webapps
